@@ -28,6 +28,6 @@ img.save(nam)
 
 #Result
 print('')
-print("Done")
+print("Done your Qr is saved at", dre)
 print('')
 closing = input("Hit any key to Exit...")
